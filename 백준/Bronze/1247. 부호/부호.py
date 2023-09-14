@@ -1,3 +1,7 @@
+# 작성 안 하면 시간 초과 뜸
+import sys
+input = sys.stdin.readline
+
 # 총 3개의 테스트 셋이 주어지므로
 for _ in range(3):
     # 테스트 셋의 첫째 줄
